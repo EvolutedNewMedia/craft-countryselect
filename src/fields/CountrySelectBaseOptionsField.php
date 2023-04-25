@@ -8,7 +8,7 @@
  * @copyright Copyright (c) 2023 Evoluted New Media
  */
 
-namespace lukeyouell\countryselect\fields;
+namespace evoluted\countryselect\fields;
 
 use evoluted\countryselect\CountrySelect;
 
