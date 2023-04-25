@@ -27,9 +27,9 @@ class CountrySelectField extends CountrySelectBaseOptionsField
     // =========================================================================
 
     /**
-     * @var array|null The available options
+     * @var array The available options
      */
-    public ?array $options = [];
+    public array $options = [];
 
     // Static Methods
     // =========================================================================
